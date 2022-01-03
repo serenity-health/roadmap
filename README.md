@@ -9,8 +9,8 @@ We want to share with our customers what we plan to do early and often so we can
 [See the roadmap »](https://github.com/orgs/serenity-health/projects/1)
 
 
-**Security and privacy**
-Please do not create a public github issue. If you discover a potential security issue in a serenity application we ask that you notify our support team by sending your report privately to support@serenity.health. Please do not create a public github issue.
+**Security and privacy**  
+Please do not create a public github issue for concerns regarding application security and privacy. If you discover a potential security issue in a serenity application we ask that you notify our support team by sending your report privately to support@serenity.health. Please do not create a public github issue.
 
 
 # FAQs
