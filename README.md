@@ -1,16 +1,17 @@
 # Serenity Roadmap
 
 Thank you for the interest in Serenity and our products!
-This is the public roadmap for Serenity Products and Services (Provider, Corporate, Patient and system apps). Also, it's inspired by Docker's roadmap. Shouts to the Docker team!
+This is the public roadmap for Serenity Products and Services (Provider, Corporate, Patient and system apps). Also, it's heavily inspired by Docker's roadmap. Shouts to the Docker team!
 
 # Introduction
-We want to share with our customers what we plan to do early and often so we can get your feedback on if these are the right things for us to be focusing on. This also allows our customers to make early decisions based on what we are/are not building. 
+We want to share with our customers what we plan to do early and often so we can get your feedback on if these are the right things for us to be focusing on. This also allows our customers to make early decisions based on what we are/are not building.
 
 [See the roadmap »](https://github.com/orgs/serenity-health/projects/1)
 
 
 **Security and privacy**  
-Please do not create a public github issue for concerns regarding application security and privacy. If you discover a potential security issue in a serenity application we ask that you notify our support team by sending your report privately to support@serenity.health. Please do not create a public github issue.
+Patient privacy and security is of uttermost concern to us. We ask that you do not share sensitive patient data (e.g. names, account ids, MRNs) when creating issues. They will be ignored and deleted to honor our commitment to patients' privacy.
+Please do not create a public github issue for concerns regarding application security and privacy. If you discover a potential security issue in a serenity application we ask that you notify our support team by sending your report privately to support@serenity.health.
 
 
 # FAQs
