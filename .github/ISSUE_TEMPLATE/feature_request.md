@@ -13,6 +13,9 @@ A clear and concise description of what the problem is. Ex. I'm always frustrate
 **Which app does this concern?**
 Provider portal? Corporate portal? Patient app?
 
+**What will be benefit of this feature?**
+What's the value of this feature? If you can quantity it, that would be awesome!
+
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
 
